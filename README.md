@@ -1,6 +1,8 @@
 # Artificial-Intelligence
+
 SCC363 - AI - Lancaster University
-NLP – Sentiment Analysis - 37840347
+
+NLP – Sentiment Analysis
 Introduction
 This coursework I am attempting to create a script that can automatically determine sentiment from recorded tweets from a provided set. We will use several classification models and evaluate their effectiveness and conclude which is the best.
 Data and Preparation
